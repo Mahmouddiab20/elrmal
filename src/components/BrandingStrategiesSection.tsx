@@ -12,7 +12,7 @@ const BrandingStrategiesSection = () => {
       color: "text-blue-500",
       features: ["Complete brand identity", "Luxury hospitality positioning", "Visual identity system", "Brand guidelines"],
       category: "Brand Identity",
-      image: "/data/wd.jpg"
+      image: "/images/wd.jpg"
     },
     {
       title: "White Diamond Hotel Brand Positioning", 
@@ -22,7 +22,7 @@ const BrandingStrategiesSection = () => {
       color: "text-green-500",
       features: ["Luxury market positioning", "Cultural adaptation", "Brand consistency", "Local market relevance"],
       category: "Brand Positioning",
-      image: "/data/اختر اللي يناسبك.png"
+      image: "/images/اختر اللي يناسبك.png"
     },
     {
       title: "ERB Real Estate Brand Identity",
@@ -32,7 +32,7 @@ const BrandingStrategiesSection = () => {
       color: "text-purple-500",
       features: ["Complete brand identity", "Real estate sector positioning", "Visual identity system", "Brand guidelines"],
       category: "Brand Identity",
-      image: "/data/3.png"
+      image: "/images/3.png"
     },
     {
       title: "ERB Real Estate Brand Strategy",
@@ -42,7 +42,7 @@ const BrandingStrategiesSection = () => {
       color: "text-orange-500",
       features: ["Brand strategy development", "Market positioning", "Brand architecture", "Strategic framework"],
       category: "Brand Strategy",
-      image: "/data/1.png"
+      image: "/images/1.png"
     },
     {
       title: "Elshawarby Furniture Exhibition Branding",
@@ -52,7 +52,7 @@ const BrandingStrategiesSection = () => {
       color: "text-cyan-500",
       features: ["Logo design", "Visual identity system", "Booth design guidelines", "Print materials"],
       category: "Exhibition Branding",
-      image: "/data/sh2.jpg"
+      image: "/images/sh2.jpg"
     },
     {
       title: "Elshawarby Furniture Marketing Campaigns",
@@ -62,7 +62,7 @@ const BrandingStrategiesSection = () => {
       color: "text-indigo-500",
       features: ["Digital advertising campaigns", "Social media promotion", "Event marketing", "Audience engagement"],
       category: "Marketing Campaigns",
-      image: "/data/s1.jpg"
+      image: "/images/s1.jpg"
     },
     {
       title: "Alamiri Motors ",
@@ -72,7 +72,7 @@ const BrandingStrategiesSection = () => {
       color: "text-emerald-500",
       features: ["Automotive brand identity", "Visual identity system", "Brand guidelines", "Industry positioning"],
       category: "Automotive Branding",
-      image: "/data/al2.jpg"
+      image: "/images/al2.jpg"
     },
     {
       title: "MR BKR Car Wash Branding",
@@ -82,7 +82,7 @@ const BrandingStrategiesSection = () => {
       color: "text-red-500",
       features: ["Car wash brand identity", "Service branding", "Customer experience design", "Marketing strategy"],
       category: "Service Branding",
-      image: "/data/bk2.jpg"
+      image: "/images/bk2.jpg"
     }
   ];
 

@@ -13,7 +13,7 @@ const ProjectsSection = () => {
       color: "text-blue-500",
       features: ["Brand awareness enhancement", "Stakeholder engagement", "Market positioning"],
       category: "Brand Awareness Campaign",
-      image: "/data/2700.jpg"
+      image: "/images/2700.jpg"
     },
     {
       title: "Arkan Holding Digital Marketing Strategy", 
@@ -23,7 +23,7 @@ const ProjectsSection = () => {
       color: "text-green-500",
       features: ["Integrated digital strategy", "Multi-channel approach", "Stakeholder targeting"],
       category: "Digital Marketing Strategy",
-      image: "/data/1400.jpg"
+      image: "/images/1400.jpg"
     },
     {
       title: "Chinese Export Brand Development",
@@ -33,7 +33,7 @@ const ProjectsSection = () => {
       color: "text-pink-500",
       features: ["Brand awareness building", "Trader engagement", "Market recognition", "Comprehensive brand strategy"],
       category: "Export Brand Management",
-      image: "/data/WhatsApp Image 2025-10-24 at 21.45.33_51b9a624.jpg"
+      image: "/images/WhatsApp Image 2025-10-24 at 21.45.33_51b9a624.jpg"
     },
     {
       title: "Arab & African Market Expansion Strategy",

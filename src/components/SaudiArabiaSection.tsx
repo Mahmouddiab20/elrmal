@@ -11,7 +11,7 @@ const SaudiArabiaSection = () => {
       color: "text-blue-500",
       features: ["Dominant healthcare presence", "High brand recognition", "Innovative digital campaigns", "Strong ROI"],
       category: "Healthcare Leadership",
-      image: "/data/dima1.PNG"
+      image: "/images/dima1.PNG"
     },
     {
       title: "Saudi Market Analytics",
@@ -21,7 +21,7 @@ const SaudiArabiaSection = () => {
       color: "text-green-500",
       features: ["Advanced analytics", "Performance optimization", "Market insights", "Growth tracking"],
       category: "Market Analytics",
-      image: "/data/dima2.PNG"
+      image: "/images/dima2.PNG"
     },
     {
       title: "Dima Dental Centers National Day Campaign",
@@ -31,7 +31,7 @@ const SaudiArabiaSection = () => {
       color: "text-red-500",
       features: ["National Day special offer", "Increased patient bookings", "Enhanced brand visibility", "Community engagement"],
       category: "Healthcare Campaign",
-      image: "/data/dima3.jpg"
+      image: "/images/dima3.jpg"
     }
   ];
 
