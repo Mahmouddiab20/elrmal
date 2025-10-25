@@ -195,26 +195,7 @@ const ContactSection = () => {
                 </div>
               </Card>
 
-              {/* Recent Activity */}
-              <Card className="p-8 bg-gradient-card border-border">
-                <div className="space-y-4">
-                  <h3 className="font-display text-xl font-semibold text-foreground">
-                    Recent Project Results
-                  </h3>
-                  <div className="space-y-3">
-                    {[
-                      "E-commerce strategy: 4.2x ROAS achieved",
-                      "Marketing transformation: 60% efficiency gain", 
-                      "Brand development: 2M+ impressions generated"
-                    ].map((activity, index) => (
-                      <div key={activity} className="flex items-center gap-3 text-sm text-muted-foreground">
-                        <div className="w-2 h-2 rounded-full bg-accent"></div>
-                        {activity}
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              </Card>
+    
             </div>
           </div>
         </div>
