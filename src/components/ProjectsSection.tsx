@@ -166,22 +166,6 @@ const ProjectsSection = () => {
                         alt={project.title}
                         className="w-full h-auto object-contain bg-muted/20 group-hover:scale-105 transition-transform duration-300"
                       />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent"></div>
-                      <div className="absolute bottom-6 left-6 right-6">
-                        <div className="flex items-center gap-4">
-                          <div className={`p-3 rounded-xl bg-background/90 ${project.color} group-hover:scale-110 transition-transform duration-300`}>
-                            <IconComponent className="h-6 w-6" />
-                          </div>
-                          <div>
-                            <h3 className="font-display text-xl font-semibold text-white group-hover:text-primary transition-colors">
-                              {project.title}
-                            </h3>
-                            <span className="text-sm text-white/90 font-medium">
-                              {project.category}
-                            </span>
-                          </div>
-                        </div>
-                      </div>
                     </div>
                   </Card>
                 </div>
